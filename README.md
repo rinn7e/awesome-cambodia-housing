@@ -60,6 +60,7 @@ The ultimate curated list of real estate portals, rental communities, Telegram h
 #### Condominium Projects and Developers
 
 - [Agoda Cambodia Condos & LongStays](https://www.agoda.com/country/cambodia.html) - Flexible long-term condo & apartment bookings. *(Aug 2026)*
+- [Anata Residence (Bun Ches Group)](https://www.facebook.com/AnataResidence/) - 25-storey residential condo tower project in Stueng Mean Chey. *(Jul 2026)*
 - [L Tower Condo](https://www.facebook.com/ltowercondo/) - Modern high-rise residential condo tower project in Phnom Penh. *(Jul 2026)*
 - [Oxley Holdings (The Peak & The Bridge)](https://www.oxley.com.sg) - Developer portal for luxury high-rise condo complexes The Peak & The Bridge. *(Jul 2026)*
 - [Prince Real Estate Group](https://www.facebook.com/princerealestate.kh) - Major condominium & commercial developer. *(Jul 2026)*
