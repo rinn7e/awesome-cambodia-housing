@@ -120,7 +120,7 @@ The ultimate curated list of real estate portals, rental communities, Telegram h
 
 #### Land Disputes, Forced Eviction Defense and Legal Aid
 
-- [ADHOC Cambodia Land Rights](https://www.facebook.com/adhoccambodia) - Legal defense & advocacy for community land rights and forced eviction victims. *(Jul 2026)*
+- [ADHOC Cambodia Land Rights](https://www.adhoccambodia.org) - Legal defense & advocacy for community land rights and forced eviction victims. *(Jul 2026)*
 - [CENTRAL Legal Defense](https://www.central-cambodia.org) - Legal support for informal worker housing rights & community land disputes. *(Jul 2026)*
 - [Legal Aid of Cambodia (LAC)](https://www.licadho-cambodia.org) - Free legal representation for low-income citizens in land & housing disputes. *(Jul 2026)*
 - [LICADHO Land Rights Unit](https://www.licadho-cambodia.org) - Human rights NGO providing legal aid and monitoring for land grab victims. *(Jul 2026)*
@@ -130,7 +130,7 @@ The ultimate curated list of real estate portals, rental communities, Telegram h
 
 - [Damnok Toek](https://damnoktoek.org) - Emergency shelter & rehabilitation for vulnerable children and homeless youth. *(Jun 2026)*
 - [Friends-International (Mith Samlanh)](https://friends-international.org) - Emergency shelter & housing support for homeless youth and vulnerable families. *(Jan 2026)*
-- [Habitat for Humanity Cambodia](https://www.facebook.com/HabitatCambodia) - Non-profit constructing affordable housing & sanitation for low-income families. *(Jul 2026)*
+- [Habitat for Humanity Cambodia](https://www.habitat.org/where-we-build/cambodia) - Non-profit constructing affordable housing & sanitation for low-income families. *(Jul 2026)*
 - [Pour un Sourire d'Enfant (PSE)](https://www.pse.ngo) - Emergency residential care & housing assistance for impoverished families. *(Jul 2026)*
 
 ### Contribution
