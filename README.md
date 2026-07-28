@@ -12,7 +12,7 @@ The ultimate curated list of real estate portals, rental communities, Telegram h
   - [Serviced Apartments and Co-Living](#serviced-apartments-and-co-living)
   - [Essential Shelter Utilities](#essential-shelter-utilities)
   - [Home Loans and Mortgage Financing](#home-loans-and-mortgage-financing)
-  - [Real Estate Advisory and Valuation](#real-estate-advisory-and-valuation)
+  - [Real Estate Brokerage, Valuation and Advisory](#real-estate-brokerage-valuation-and-advisory)
   - [Affordable and Public Social Housing](#affordable-and-public-social-housing)
   - [Informal Settlements and Land Titling](#informal-settlements-and-land-titling)
   - [Land Disputes, Forced Eviction Defense and Legal Aid](#land-disputes-forced-eviction-defense-and-legal-aid)
@@ -83,10 +83,14 @@ The ultimate curated list of real estate portals, rental communities, Telegram h
 - [ABA Bank Home Loans](https://www.ababank.com/loans/housing-loan) - Residential home & apartment mortgage financing. *(Jul 2026)*
 - [Canadia Bank Housing Loans](https://www.canadiabank.com.kh) - Housing & land purchase loans. *(Jul 2026)*
 
-#### Real Estate Advisory and Valuation
+#### Real Estate Brokerage, Valuation and Advisory
 
-- [CBRE Cambodia](https://cbre.com.kh) - Commercial & residential advisory. *(Jul 2026)*
-- [Knight Frank Cambodia](https://www.knightfrank.com.kh) - Property valuation & management. *(Mar 2026)*
+- [CBRE Cambodia](https://cbre.com.kh) - Commercial & residential brokerage, valuation & advisory. *(Jul 2026)*
+- [CPL (Cambodia Properties Limited)](https://www.cplagent.com) - Pioneer licensed real estate agency & property valuation firm. *(Jul 2026)*
+- [CVEA (Cambodian Valuers & Estate Agents)](https://www.cvea.org.kh) - National association of licensed real estate agents & property valuers. *(Jul 2026)*
+- [ERA Cambodia](https://eracambodia.com) - International real estate brokerage for land, house & condo sales. *(Jul 2026)*
+- [FazWaz Cambodia](https://www.fazwaz-kh.com) - Technology-driven property marketplace for land, house & condo sales. *(Jul 2026)*
+- [Knight Frank Cambodia](https://www.knightfrank.com.kh) - Property valuation, land sales & asset management. *(Mar 2026)*
 
 #### Affordable and Public Social Housing
 

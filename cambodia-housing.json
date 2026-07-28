@@ -272,18 +272,42 @@
       ]
     },
     {
-      "title": "Real Estate Advisory and Valuation",
+      "title": "Real Estate Brokerage, Valuation and Advisory",
       "items": [
         {
           "title": "CBRE Cambodia",
           "url": "https://cbre.com.kh",
-          "description": "Commercial & residential advisory",
+          "description": "Commercial & residential brokerage, valuation & advisory",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "CPL (Cambodia Properties Limited)",
+          "url": "https://www.cplagent.com",
+          "description": "Pioneer licensed real estate agency & property valuation firm",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "CVEA (Cambodian Valuers & Estate Agents)",
+          "url": "https://www.cvea.org.kh",
+          "description": "National association of licensed real estate agents & property valuers",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "ERA Cambodia",
+          "url": "https://eracambodia.com",
+          "description": "International real estate brokerage for land, house & condo sales",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "FazWaz Cambodia",
+          "url": "https://www.fazwaz-kh.com",
+          "description": "Technology-driven property marketplace for land, house & condo sales",
           "lastUpdated": "2026-07"
         },
         {
           "title": "Knight Frank Cambodia",
           "url": "https://www.knightfrank.com.kh",
-          "description": "Property valuation & management",
+          "description": "Property valuation, land sales & asset management",
           "lastUpdated": "2026-03"
         }
       ]
