@@ -45,29 +45,52 @@ The ultimate curated list of real estate portals, rental communities, Telegram h
 
 #### Borey and Gated Community Developers
 
+- [Borey Chankiri (Urbanland)](https://www.facebook.com/boreychankirikh) - Modern master-planned Borey community on National Road 2. *(Jul 2026)*
+- [Borey Chea Ry](https://www.facebook.com/boreycheary) - Residential villa & shophouse Borey developer. *(Jul 2026)*
+- [Borey Dragon Land 598](https://www.facebook.com/boreydragonland598) - Luxury villa gated community on Chea Sophara Street (598). *(Jul 2026)*
 - [Borey Hi-Tech](https://www.facebook.com/boreyhitech) - Modern residential Borey developer in Chbar Ampov. *(Jul 2026)*
-- [Borey Nadi (GC Land)](https://www.harbor-property.com) - High-end waterfront villa community developer in Chroy Changvar. *(Jul 2026)*
-- [Borey New Hope](https://www.facebook.com/boreynewhope) - Budget-friendly family housing project in Phnom Penh. *(Jul 2026)*
-- [Borey Peng Huoth (Peng Huoth Group)](https://www.penghuothgroup.com) - Cambodia's premier Borey township developer. *(Jul 2026)*
+- [Borey KS Residence](https://www.facebook.com/boreyksresidence) - Residential family Borey development in Phnom Penh. *(Jul 2026)*
+- [Borey Lay Kong](https://www.facebook.com/boreylaykongemeraldresidence/) - Affordable residential shophouse & flat developer. *(Jul 2026)*
+- [Borey Lorn City](https://www.facebook.com/lorncitygroup) - Affordable residential township near Phnom Penh airport. *(Jul 2026)*
+- [Borey Mekong Land](https://www.facebook.com/MekongLandOfficial/) - Luxury shophouse & villa developer in Chroy Changvar. *(Jul 2026)*
+- [Borey Mongkul Phnom Penh](https://www.facebook.com/boreymongkulphnompenh) - Residential Borey project in Phnom Penh suburb. *(Jul 2026)*
+- [Borey Nadi (GC City)](https://www.facebook.com/NADIBYGCC) - High-end waterfront villa community developer in Chroy Changvar. *(Jul 2026)*
+- [Borey Peng Huoth](https://www.facebook.com/boreypenghuoth) - Cambodia's premier Borey township developer. *(Jul 2026)*
+- [Borey Phnom Meas](https://www.facebook.com/boreyphnommeas) - Family residential housing community project. *(Jul 2026)*
+- [Borey Phnom Penh Thmey](https://www.facebook.com/boreyphnompenhthmey) - Prominent luxury Borey developer across Phnom Penh. *(Jul 2026)*
+- [Borey Piphup Thmey](https://www.facebook.com/boreypiphupthmey) - Major affordable & middle-income Borey community developer. *(Jul 2026)*
+- [Borey Sunway](https://www.facebook.com/boreysunway) - Gated residential villa community project. *(Jul 2026)*
 - [Borey VIP](https://www.facebook.com/boreyvip.phnompenh) - Popular low-to-middle income flat & villa developer. *(Jul 2026)*
-- [Borey Williams](https://boreywilliams.com) - American-style modern home developer in Kamboul. *(Jul 2026)*
-- [Chip Mong Land](https://www.chipmongland.com) - Major luxury residential & commercial Borey developer (Grand Phnom Penh). *(Jul 2026)*
-- [Creed Group Development](https://www.creed-group.com) - Japanese-backed residential Borey developer. *(Jul 2026)*
-- [Lorn City Group](https://www.facebook.com/lorncitygroup) - Affordable residential township developer near Phnom Penh airport. *(Jul 2026)*
-- [Orkide Development](https://www.orkide.com.kh) - Luxury high-end Borey & condo township developer. *(Jul 2026)*
-- [WorldBridge Group](https://www.worldbridge.com.kh) - Major public-private affordable housing & Sport City developer. *(Jul 2026)*
+- [Borey Vimean Samnang](https://www.facebook.com/boreyvimeansamnang) - Luxury royal villa developer in Sensok district. *(Jul 2026)*
+- [Borey Williams](https://www.facebook.com/boreywilliams) - American-style modern home developer in Kamboul. *(Jul 2026)*
+- [Chip Mong Land](https://www.facebook.com/chipmongland) - Major luxury residential & commercial Borey developer. *(Jul 2026)*
+- [Orkide Development](https://www.facebook.com/orkide.development) - Luxury high-end Borey & condo township developer. *(Jul 2026)*
 
 #### Condominium Projects and Developers
 
+- [Agile Sky Residence](https://www.facebook.com/agileskyresidence) - Modern luxury high-rise condo tower on Monivong Blvd. *(Jul 2026)*
 - [Agoda Cambodia Condos & LongStays](https://www.agoda.com/country/cambodia.html) - Flexible long-term condo & apartment bookings. *(Aug 2026)*
 - [Anata Residence (Bun Ches Group)](https://www.facebook.com/AnataResidence/) - 25-storey residential condo tower project in Stueng Mean Chey. *(Jul 2026)*
+- [Bodaiju Residences](https://www.facebook.com/bodaijuresidences) - Japanese-designed condo community near Phnom Penh airport. *(Jul 2026)*
+- [De Castle Royal](https://www.facebook.com/decastleroyal) - Pioneer luxury residential condo tower in BKK1. *(Jul 2026)*
+- [Diamond Island Riviera (D.I. Riviera)](https://www.facebook.com/p/Diriviera-100075922853542/) - Luxury waterfront condominium complex on Koh Pich. *(Jul 2026)*
+- [J-Tower 2 & 3 (Tanichu Assetment)](https://www.facebook.com/jtower.official) - Japanese-managed premium condo towers in BKK1 & Tonle Bassac. *(Jul 2026)*
 - [L Tower Condo](https://www.facebook.com/ltowercondo/) - Modern high-rise residential condo tower project in Phnom Penh. *(Jul 2026)*
+- [La Vista One](https://www.facebook.com/lavistaone) - Waterfront twin-tower luxury condo project in Chroy Changvar. *(Jul 2026)*
+- [Le Condé BKK1](https://www.facebook.com/LeCondeBKK1) - Smart-home luxury residential condo tower in BKK1. *(Jul 2026)*
+- [LIXIN CEO Center](https://www.facebook.com/lixinceocenter) - Mixed-use luxury condo & office tower on Russian Blvd. *(Jul 2026)*
+- [Meridian International (Casa / Flatiron / Skylar)](https://www.facebook.com/casabymeridian) - Developer of Casa Meridian, Flatiron & Skylar condos. *(Jul 2026)*
+- [Morgan EnMaison](https://www.facebook.com/morganenmaison.kh) - Waterfront luxury residential condo project in Chroy Changvar. *(Jul 2026)*
+- [Morgan Tower](https://www.facebook.com/morgantower.kh) - LEED-certified green office & condo tower on Koh Pich. *(Jul 2026)*
 - [Oxley Holdings (The Peak & The Bridge)](https://www.oxley.com.sg) - Developer portal for luxury high-rise condo complexes The Peak & The Bridge. *(Jul 2026)*
+- [Picasso City Garden](http://pcgdevelopmentplc.com.kh) - Art-themed luxury residential condo tower in BKK1. *(Jul 2026)*
 - [Prince Real Estate Group](https://www.facebook.com/princerealestate.kh) - Major condominium & commercial developer. *(Jul 2026)*
+- [Rose Apple Square (Siem Reap)](https://www.facebook.com/roseapplesquare) - Urbanland mixed-use condo & co-living community in Siem Reap. *(Jul 2026)*
+- [Star Bay Sihanoukville](https://www.facebook.com/starbaysihanoukville) - Coastal luxury condo development in Sihanoukville. *(Jul 2026)*
 - [Star City Phnom Penh](https://www.facebook.com/starcityphnompenh) - Mixed-use residential condo complex on Russian Blvd. *(Jul 2026)*
-- [Time Square 306](https://www.facebook.com/timesquare306condo) - Modern high-rise residential condo tower in BKK1. *(Jul 2026)*
-- [Urban Village Phnom Penh](https://urbanvillage.com.kh) - Award-winning mixed-use condo community. *(Jul 2026)*
-- [Wealth Mansion](https://www.facebook.com/wealthmansion) - Waterfront luxury residential condo tower in Chroy Changvar. *(Jul 2026)*
+- [Time Square Cambodia (Megakim World)](https://www.facebook.com/timesquarecambodia) - Prominent high-rise condo developer across BKK1 & Toul Kork. *(Jul 2026)*
+- [Urban Village Phnom Penh](https://www.facebook.com/urbanvillagephnompenh) - Award-winning mixed-use condo community. *(Jul 2026)*
+- [Wealth Mansion](https://www.facebook.com/wealthmansioncambodia) - Waterfront luxury residential condo tower in Chroy Changvar. *(Jul 2026)*
 
 #### Serviced Apartments and Co-Living
 

@@ -100,27 +100,93 @@
       "title": "Borey and Gated Community Developers",
       "items": [
         {
+          "title": "Borey Chankiri (Urbanland)",
+          "url": "https://www.facebook.com/boreychankirikh",
+          "description": "Modern master-planned Borey community on National Road 2",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Chea Ry",
+          "url": "https://www.facebook.com/boreycheary",
+          "description": "Residential villa & shophouse Borey developer",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Dragon Land 598",
+          "url": "https://www.facebook.com/boreydragonland598",
+          "description": "Luxury villa gated community on Chea Sophara Street (598)",
+          "lastUpdated": "2026-07"
+        },
+        {
           "title": "Borey Hi-Tech",
           "url": "https://www.facebook.com/boreyhitech",
           "description": "Modern residential Borey developer in Chbar Ampov",
           "lastUpdated": "2026-07"
         },
         {
-          "title": "Borey Nadi (GC Land)",
-          "url": "https://www.harbor-property.com",
+          "title": "Borey KS Residence",
+          "url": "https://www.facebook.com/boreyksresidence",
+          "description": "Residential family Borey development in Phnom Penh",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Lay Kong",
+          "url": "https://www.facebook.com/boreylaykongemeraldresidence/",
+          "description": "Affordable residential shophouse & flat developer",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Lorn City",
+          "url": "https://www.facebook.com/lorncitygroup",
+          "description": "Affordable residential township near Phnom Penh airport",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Mekong Land",
+          "url": "https://www.facebook.com/MekongLandOfficial/",
+          "description": "Luxury shophouse & villa developer in Chroy Changvar",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Mongkul Phnom Penh",
+          "url": "https://www.facebook.com/boreymongkulphnompenh",
+          "description": "Residential Borey project in Phnom Penh suburb",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Nadi (GC City)",
+          "url": "https://www.facebook.com/NADIBYGCC",
           "description": "High-end waterfront villa community developer in Chroy Changvar",
           "lastUpdated": "2026-07"
         },
         {
-          "title": "Borey New Hope",
-          "url": "https://www.facebook.com/boreynewhope",
-          "description": "Budget-friendly family housing project in Phnom Penh",
+          "title": "Borey Peng Huoth",
+          "url": "https://www.facebook.com/boreypenghuoth",
+          "description": "Cambodia's premier Borey township developer",
           "lastUpdated": "2026-07"
         },
         {
-          "title": "Borey Peng Huoth (Peng Huoth Group)",
-          "url": "https://www.penghuothgroup.com",
-          "description": "Cambodia's premier Borey township developer",
+          "title": "Borey Phnom Meas",
+          "url": "https://www.facebook.com/boreyphnommeas",
+          "description": "Family residential housing community project",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Phnom Penh Thmey",
+          "url": "https://www.facebook.com/boreyphnompenhthmey",
+          "description": "Prominent luxury Borey developer across Phnom Penh",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Piphup Thmey",
+          "url": "https://www.facebook.com/boreypiphupthmey",
+          "description": "Major affordable & middle-income Borey community developer",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Borey Sunway",
+          "url": "https://www.facebook.com/boreysunway",
+          "description": "Gated residential villa community project",
           "lastUpdated": "2026-07"
         },
         {
@@ -130,39 +196,27 @@
           "lastUpdated": "2026-07"
         },
         {
+          "title": "Borey Vimean Samnang",
+          "url": "https://www.facebook.com/boreyvimeansamnang",
+          "description": "Luxury royal villa developer in Sensok district",
+          "lastUpdated": "2026-07"
+        },
+        {
           "title": "Borey Williams",
-          "url": "https://boreywilliams.com",
+          "url": "https://www.facebook.com/boreywilliams",
           "description": "American-style modern home developer in Kamboul",
           "lastUpdated": "2026-07"
         },
         {
           "title": "Chip Mong Land",
-          "url": "https://www.chipmongland.com",
-          "description": "Major luxury residential & commercial Borey developer (Grand Phnom Penh)",
-          "lastUpdated": "2026-07"
-        },
-        {
-          "title": "Creed Group Development",
-          "url": "https://www.creed-group.com",
-          "description": "Japanese-backed residential Borey developer",
-          "lastUpdated": "2026-07"
-        },
-        {
-          "title": "Lorn City Group",
-          "url": "https://www.facebook.com/lorncitygroup",
-          "description": "Affordable residential township developer near Phnom Penh airport",
+          "url": "https://www.facebook.com/chipmongland",
+          "description": "Major luxury residential & commercial Borey developer",
           "lastUpdated": "2026-07"
         },
         {
           "title": "Orkide Development",
-          "url": "https://www.orkide.com.kh",
+          "url": "https://www.facebook.com/orkide.development",
           "description": "Luxury high-end Borey & condo township developer",
-          "lastUpdated": "2026-07"
-        },
-        {
-          "title": "WorldBridge Group",
-          "url": "https://www.worldbridge.com.kh",
-          "description": "Major public-private affordable housing & Sport City developer",
           "lastUpdated": "2026-07"
         }
       ]
@@ -170,6 +224,12 @@
     {
       "title": "Condominium Projects and Developers",
       "items": [
+        {
+          "title": "Agile Sky Residence",
+          "url": "https://www.facebook.com/agileskyresidence",
+          "description": "Modern luxury high-rise condo tower on Monivong Blvd",
+          "lastUpdated": "2026-07"
+        },
         {
           "title": "Agoda Cambodia Condos & LongStays",
           "url": "https://www.agoda.com/country/cambodia.html",
@@ -183,9 +243,69 @@
           "lastUpdated": "2026-07"
         },
         {
+          "title": "Bodaiju Residences",
+          "url": "https://www.facebook.com/bodaijuresidences",
+          "description": "Japanese-designed condo community near Phnom Penh airport",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "De Castle Royal",
+          "url": "https://www.facebook.com/decastleroyal",
+          "description": "Pioneer luxury residential condo tower in BKK1",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Diamond Island Riviera (D.I. Riviera)",
+          "url": "https://www.facebook.com/p/Diriviera-100075922853542/",
+          "description": "Luxury waterfront condominium complex on Koh Pich",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "J-Tower 2 & 3 (Tanichu Assetment)",
+          "url": "https://www.facebook.com/jtower.official",
+          "description": "Japanese-managed premium condo towers in BKK1 & Tonle Bassac",
+          "lastUpdated": "2026-07"
+        },
+        {
           "title": "L Tower Condo",
           "url": "https://www.facebook.com/ltowercondo/",
           "description": "Modern high-rise residential condo tower project in Phnom Penh",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "La Vista One",
+          "url": "https://www.facebook.com/lavistaone",
+          "description": "Waterfront twin-tower luxury condo project in Chroy Changvar",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Le Condé BKK1",
+          "url": "https://www.facebook.com/LeCondeBKK1",
+          "description": "Smart-home luxury residential condo tower in BKK1",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "LIXIN CEO Center",
+          "url": "https://www.facebook.com/lixinceocenter",
+          "description": "Mixed-use luxury condo & office tower on Russian Blvd",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Meridian International (Casa / Flatiron / Skylar)",
+          "url": "https://www.facebook.com/casabymeridian",
+          "description": "Developer of Casa Meridian, Flatiron & Skylar condos",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Morgan EnMaison",
+          "url": "https://www.facebook.com/morganenmaison.kh",
+          "description": "Waterfront luxury residential condo project in Chroy Changvar",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Morgan Tower",
+          "url": "https://www.facebook.com/morgantower.kh",
+          "description": "LEED-certified green office & condo tower on Koh Pich",
           "lastUpdated": "2026-07"
         },
         {
@@ -195,9 +315,27 @@
           "lastUpdated": "2026-07"
         },
         {
+          "title": "Picasso City Garden",
+          "url": "http://pcgdevelopmentplc.com.kh",
+          "description": "Art-themed luxury residential condo tower in BKK1",
+          "lastUpdated": "2026-07"
+        },
+        {
           "title": "Prince Real Estate Group",
           "url": "https://www.facebook.com/princerealestate.kh",
           "description": "Major condominium & commercial developer",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Rose Apple Square (Siem Reap)",
+          "url": "https://www.facebook.com/roseapplesquare",
+          "description": "Urbanland mixed-use condo & co-living community in Siem Reap",
+          "lastUpdated": "2026-07"
+        },
+        {
+          "title": "Star Bay Sihanoukville",
+          "url": "https://www.facebook.com/starbaysihanoukville",
+          "description": "Coastal luxury condo development in Sihanoukville",
           "lastUpdated": "2026-07"
         },
         {
@@ -207,20 +345,20 @@
           "lastUpdated": "2026-07"
         },
         {
-          "title": "Time Square 306",
-          "url": "https://www.facebook.com/timesquare306condo",
-          "description": "Modern high-rise residential condo tower in BKK1",
+          "title": "Time Square Cambodia (Megakim World)",
+          "url": "https://www.facebook.com/timesquarecambodia",
+          "description": "Prominent high-rise condo developer across BKK1 & Toul Kork",
           "lastUpdated": "2026-07"
         },
         {
           "title": "Urban Village Phnom Penh",
-          "url": "https://urbanvillage.com.kh",
+          "url": "https://www.facebook.com/urbanvillagephnompenh",
           "description": "Award-winning mixed-use condo community",
           "lastUpdated": "2026-07"
         },
         {
           "title": "Wealth Mansion",
-          "url": "https://www.facebook.com/wealthmansion",
+          "url": "https://www.facebook.com/wealthmansioncambodia",
           "description": "Waterfront luxury residential condo tower in Chroy Changvar",
           "lastUpdated": "2026-07"
         }
