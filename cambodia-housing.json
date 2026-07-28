@@ -71,33 +71,27 @@
       "title": "Telegram Housing Channels and Groups",
       "items": [
         {
-          "title": "Cambodia Property Market (Telegram)",
-          "url": "https://t.me/cambodiapropertymarket",
-          "description": "Daily property buy & rent listings",
+          "title": "Cambodia Property for Sale & Rent (Telegram)",
+          "url": "https://t.me/PropertyKH",
+          "description": "Public channel for property sales & rental listings",
           "lastUpdated": "2026-07"
         },
         {
-          "title": "Expat Housing Phnom Penh (Telegram)",
-          "url": "https://t.me/expathousingphnompenh",
-          "description": "Apartment & room share community",
+          "title": "Cambodia Rent Condo & Apartment (Telegram)",
+          "url": "https://t.me/realestate_agenc",
+          "description": "Apartment & condominium rental updates channel",
           "lastUpdated": "2026-07"
         },
         {
-          "title": "Kampot & Kep Real Estate (Telegram)",
-          "url": "https://t.me/kampothousing",
-          "description": "Coastal property rentals & land",
+          "title": "Home Rental in Cambodia (Telegram)",
+          "url": "https://t.me/renting_properties",
+          "description": "Public residential property rental group",
           "lastUpdated": "2026-07"
         },
         {
-          "title": "Phnom Penh Housing & Rentals (Telegram)",
-          "url": "https://t.me/phnompenhhousing",
-          "description": "Landlord rental listings channel",
-          "lastUpdated": "2026-07"
-        },
-        {
-          "title": "Siem Reap Housing & Rentals (Telegram)",
-          "url": "https://t.me/siemreaphousing",
-          "description": "Siem Reap rental community",
+          "title": "Property Renting in Cambodia (Telegram)",
+          "url": "https://t.me/propertyrentingincambodia",
+          "description": "Property rental community & listings group",
           "lastUpdated": "2026-07"
         }
       ]

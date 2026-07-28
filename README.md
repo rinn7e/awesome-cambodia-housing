@@ -38,11 +38,10 @@ The ultimate curated list of real estate portals, rental communities, Telegram h
 
 #### Telegram Housing Channels and Groups
 
-- [Cambodia Property Market (Telegram)](https://t.me/cambodiapropertymarket) - Daily property buy & rent listings. *(Jul 2026)*
-- [Expat Housing Phnom Penh (Telegram)](https://t.me/expathousingphnompenh) - Apartment & room share community. *(Jul 2026)*
-- [Kampot & Kep Real Estate (Telegram)](https://t.me/kampothousing) - Coastal property rentals & land. *(Jul 2026)*
-- [Phnom Penh Housing & Rentals (Telegram)](https://t.me/phnompenhhousing) - Landlord rental listings channel. *(Jul 2026)*
-- [Siem Reap Housing & Rentals (Telegram)](https://t.me/siemreaphousing) - Siem Reap rental community. *(Jul 2026)*
+- [Cambodia Property for Sale & Rent (Telegram)](https://t.me/PropertyKH) - Public channel for property sales & rental listings. *(Jul 2026)*
+- [Cambodia Rent Condo & Apartment (Telegram)](https://t.me/realestate_agenc) - Apartment & condominium rental updates channel. *(Jul 2026)*
+- [Home Rental in Cambodia (Telegram)](https://t.me/renting_properties) - Public residential property rental group. *(Jul 2026)*
+- [Property Renting in Cambodia (Telegram)](https://t.me/propertyrentingincambodia) - Property rental community & listings group. *(Jul 2026)*
 
 #### Borey and Gated Community Developers
 
