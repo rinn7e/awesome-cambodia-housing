@@ -1,5 +1,7 @@
 # Awesome Cambodia Housing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[![AI-DECLARATION: assist](https://img.shields.io/badge/䷼%20AI--DECLARATION-assist-fef9c3?labelColor=fef9c3)](AI-DECLARATION.md)
+
 The ultimate curated list of real estate portals, rental communities, Telegram housing channels, Facebook property groups, Borey developers, condominium projects, serviced apartments, mortgage banks, social housing, land titling, eviction legal defense, and emergency shelters in Cambodia.
 
 
